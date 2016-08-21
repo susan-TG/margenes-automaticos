@@ -1,0 +1,15 @@
+/* Escribe aqui tu CSS */
+
+p {
+	font-size: 24px;
+	width: 280px;
+	height: 280px;
+	text-align: center;
+	padding: 40px 40px 40px 40px;
+	border: 30px solid yellow;
+	
+}
+.caja2 {
+
+	margin-left: 750px;
+}
